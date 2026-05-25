@@ -1,0 +1,1034 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Stuvia \u2013 Creative Studio Rental Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/preview.raddito.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.png",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.png",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Studios",
+            "screenshot": "screenshots\/studios.png",
+            "source": "templates\/studios.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/studios\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Studio Details",
+            "screenshot": "screenshots\/studio-details.png",
+            "source": "templates\/studio-details.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/studio-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.png",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog Details",
+            "screenshot": "screenshots\/blog-details.png",
+            "source": "templates\/blog-details.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/blog-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.png",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Booking",
+            "screenshot": "screenshots\/booking.png",
+            "source": "templates\/booking.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/booking\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.png",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.png",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.png",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.png",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.png",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form",
+            "screenshot": "screenshots\/contact-form.png",
+            "source": "templates\/contact-form.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Booking Form",
+            "screenshot": "screenshots\/booking-form.png",
+            "source": "templates\/booking-form.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/booking-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Subscribe Form",
+            "screenshot": "screenshots\/subscribe-form.png",
+            "source": "templates\/subscribe-form.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/subscribe-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header V1",
+            "screenshot": "screenshots\/header-v1.png",
+            "source": "templates\/header-v1.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/header-v1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer V1",
+            "screenshot": "screenshots\/footer-v1.png",
+            "source": "templates\/footer-v1.json",
+            "preview_url": "https:\/\/preview.raddito.net\/stuvia\/template-kit\/footer-v1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "4.0.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Kit for Elementor",
+            "version": "3.1.0",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "4.1.3",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Testimonial-6.png",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Testimonial-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5953,
+            "dimensions": [
+                56,
+                56
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/mosaic-of-happy-people-portraits-over-colorful-bac-WX7KST7"
+        },
+        {
+            "filename": "Testimonial-3.png",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Testimonial-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7528,
+            "dimensions": [
+                56,
+                56
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/mosaic-of-happy-people-portraits-over-colorful-bac-WX7KST7"
+        },
+        {
+            "filename": "Testimonial-2.png",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Testimonial-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5517,
+            "dimensions": [
+                56,
+                56
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/mosaic-of-happy-people-portraits-over-colorful-bac-WX7KST7"
+        },
+        {
+            "filename": "Carousel-IMG-4.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Carousel-IMG-4.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 57834,
+            "dimensions": [
+                720,
+                608
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/content-creation-studio-set-up-for-podcast-recordi-XTFXDKK"
+        },
+        {
+            "filename": "Carousel-IMG-5.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Carousel-IMG-5.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/studio-details.json",
+                    "name": "Studio Details"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 56242,
+            "dimensions": [
+                720,
+                720
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/interior-of-modern-photo-studio-with-professional--DR5JMNL"
+        },
+        {
+            "filename": "Carousel-IMG-2.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Carousel-IMG-2.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 60172,
+            "dimensions": [
+                720,
+                608
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/home-recording-studio-background-YQQBW7W"
+        },
+        {
+            "filename": "Carousel-IMG-1.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Carousel-IMG-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 84272,
+            "dimensions": [
+                720,
+                720
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/3d-rendering-business-meeting-and-working-room-on--GGQKYGM"
+        },
+        {
+            "filename": "Carousel-IMG-3.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Carousel-IMG-3.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 61800,
+            "dimensions": [
+                720,
+                608
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/doors-decoration-for-movie-filming-with-vintage-ca-TSV357W"
+        },
+        {
+            "filename": "Carousel-IMG-6.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Carousel-IMG-6.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 58288,
+            "dimensions": [
+                720,
+                720
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/photo-studio-interior-with-set-of-professional-equ-FM7MFE5"
+        },
+        {
+            "filename": "Mauliate.png",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Mauliate.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3438,
+            "dimensions": [
+                150,
+                39
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "RandaJang.png",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/RandaJang.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3267,
+            "dimensions": [
+                233,
+                38
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Haunerteam.png",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Haunerteam.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2367,
+            "dimensions": [
+                150,
+                25
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Salindra.png",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Salindra.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2670,
+            "dimensions": [
+                150,
+                45
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Monda.png",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Monda.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2654,
+            "dimensions": [
+                131,
+                30
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Studio-IMG-2.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Studio-IMG-2.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/studios.json",
+                    "name": "Studios"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 57586,
+            "dimensions": [
+                720,
+                840
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/digital-photo-camera-in-photo-studio-with-lighting-FPJ58QY"
+        },
+        {
+            "filename": "Studio-IMG-3.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Studio-IMG-3.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/studios.json",
+                    "name": "Studios"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 45788,
+            "dimensions": [
+                720,
+                840
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/office-desk-with-microphones-documents-laptop-comp-PQGG67J"
+        },
+        {
+            "filename": "Studio-IMG-1.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Studio-IMG-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/studios.json",
+                    "name": "Studios"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 57280,
+            "dimensions": [
+                720,
+                840
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/shooting-studio-for-photographer-and-creative-art--FZJWVUE"
+        },
+        {
+            "filename": "Studio-IMG-5.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Studio-IMG-5.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/studios.json",
+                    "name": "Studios"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 81584,
+            "dimensions": [
+                720,
+                840
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/interior-of-modern-office-NKSJRR4"
+        },
+        {
+            "filename": "Studio-IMG-4.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Studio-IMG-4.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/studios.json",
+                    "name": "Studios"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 57044,
+            "dimensions": [
+                720,
+                840
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/modern-waiting-area-M6QRC6F"
+        },
+        {
+            "filename": "Studio-IMG-6.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Studio-IMG-6.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/studios.json",
+                    "name": "Studios"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 59272,
+            "dimensions": [
+                720,
+                840
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/online-work-on-computer-at-home-W7EZXXG"
+        },
+        {
+            "filename": "Feature-Space-2.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Feature-Space-2.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/studio-details.json",
+                    "name": "Studio Details"
+                }
+            ],
+            "filesize": 58244,
+            "dimensions": [
+                1280,
+                800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/photo-studio-with-lighting-equipment-and-digital-c-49G7YWH"
+        },
+        {
+            "filename": "Feature-Space-1.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Feature-Space-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 98834,
+            "dimensions": [
+                1280,
+                800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/film-studio-office-decorations-with-vintage-movie--YY4H2EF"
+        },
+        {
+            "filename": "Gallery-1.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Gallery-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 82428,
+            "dimensions": [
+                1280,
+                801
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/nobody-at-empty-desk-with-streaming-equipment-QK7T2VV"
+        },
+        {
+            "filename": "Gallery-3.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Gallery-3.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 161176,
+            "dimensions": [
+                1280,
+                800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/3d-rendering-business-meeting-room-on-high-rise-of-66STCGZ"
+        },
+        {
+            "filename": "Gallery-5.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Gallery-5.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 80272,
+            "dimensions": [
+                1280,
+                800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/empty-online-radio-studio-broadcasting-room-with-p-S98D2XP"
+        },
+        {
+            "filename": "Gallery-4.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Gallery-4.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 92326,
+            "dimensions": [
+                1280,
+                800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/modern-windows-and-furniture-in-corporate-business-PFLUHS8"
+        },
+        {
+            "filename": "Inner-Hero-BG.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Inner-Hero-BG.webp",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/studios.json",
+                    "name": "Studios"
+                },
+                {
+                    "source": "templates\/studio-details.json",
+                    "name": "Studio Details"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 60732,
+            "dimensions": [
+                1920,
+                325
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/panorama-of-modern-white-empty-loft-apartment-inte-J34M7EK"
+        },
+        {
+            "filename": "About.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/About.webp",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 86180,
+            "dimensions": [
+                720,
+                768
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/milan-italy-residential-hadid-buildings-modern-cit-DV29DGX"
+        },
+        {
+            "filename": "Team-4.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Team-4.webp",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 32808,
+            "dimensions": [
+                720,
+                810
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/a13df85a-f9a9-4542-b8f2-0945d4663e4c\/photos\/3149b06c-4be1-44b6-8b89-484045958097"
+        },
+        {
+            "filename": "Team-2.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Team-2.webp",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 27736,
+            "dimensions": [
+                720,
+                810
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/creative-portrait-of-a-man-capturing-the-essence-o-3V3V9N3"
+        },
+        {
+            "filename": "Team-1.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Team-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 39140,
+            "dimensions": [
+                720,
+                810
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/dark-haired-young-cute-reporter-standing-in-the-st-HXU2CHW"
+        },
+        {
+            "filename": "Team-3.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Team-3.webp",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 42518,
+            "dimensions": [
+                720,
+                810
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-in-office-businessman-wearing-casual-shirt-QPQV64H"
+        },
+        {
+            "filename": "Blog-IMG-2.webp",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Blog-IMG-2.webp",
+            "templates": [
+                {
+                    "source": "templates\/studio-details.json",
+                    "name": "Studio Details"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 52208,
+            "dimensions": [
+                800,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/photographic-equipment-in-studio-JAM28ZY"
+        },
+        {
+            "filename": "Stuvia.png",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Stuvia.png",
+            "templates": [
+                {
+                    "source": "templates\/header-v1.json",
+                    "name": "Header V1"
+                }
+            ],
+            "filesize": 15758,
+            "dimensions": [
+                366,
+                74
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Stuvia_White.png",
+            "thumbnail_url": "https:\/\/preview.raddito.net\/stuvia\/wp-content\/uploads\/sites\/227\/2026\/04\/Stuvia_White.png",
+            "templates": [
+                {
+                    "source": "templates\/header-v1.json",
+                    "name": "Header V1"
+                },
+                {
+                    "source": "templates\/footer-v1.json",
+                    "name": "Footer V1"
+                }
+            ],
+            "filesize": 15740,
+            "dimensions": [
+                366,
+                74
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        }
+    ]
+}
